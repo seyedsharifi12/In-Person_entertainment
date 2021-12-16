@@ -12,8 +12,8 @@ We have been **_entrusted_** to come up with ideas and provide entertainment for
 
 | **Issues**       | **Suggestions**          | **Nominations**          | **Assignees** |
 | :--------------- | :----------------------- | :----------------------- | :------------ |
-| Team Dress Theme | Put your suggestion here | Put your suggestion here |               |
-| Party Games      | "                        | "                        |               |
-| Music            | "                        | "                        |               |
-| Performances     | "                        | "                        |               |
-| Dress code       |                          |                          |               |
+| Team Dress Theme | Christmas Pyjamas        | All team members         |               |
+| Party Games      | Truth Or Dare            | Mya & Konica             |               |
+| Music            | Play On Laptop           | Azan  & Syed             |               |
+| Performances     | NA                       |                          |               |
+| Dress code       | Christmas Jumper         |                          |               |
