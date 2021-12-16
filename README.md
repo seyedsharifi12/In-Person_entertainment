@@ -10,10 +10,11 @@ We have been **_entrusted_** to come up with ideas and provide entertainment for
 6. Have someone dress up as Santa.
 7. Quiz.
 
-| **Issues**       | **Suggestions**          | **Nominations**          | **Assignees** |
-| :--------------- | :----------------------- | :----------------------- | :------------ |
-| Team Dress Theme | Christmas Pyjamas        | All team members         |               |
-| Party Games      | Truth Or Dare            | Mya & Konica             |               |
-| Music            | Play On Laptop           | Azan  & Syed             |               |
-| Performances     | NA                       |                          |               |
-| Dress code       | Christmas Jumper         |                          |               |
+| **Issues**       | **Suggestions**      | **Nominations**  | **Assignees** |
+| :--------------- | :------------------- | :--------------- | :------------ |
+| Team Dress Theme | Christmas Pyjamas    | All team members |               |
+| Party Games      | Truth Or Dare        | Mya & Konica     |               |
+| Music            | Play On Laptop       | Azan & Syed      |               |
+| Performances     | NA                   |                  |               |
+| Dress code       | Christmas Jumper     |                  |
+| Quiz             | Covered Topics in FS | All              |
