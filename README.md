@@ -44,3 +44,4 @@ Link below to some random quizzes that everyone can pick from.
 | Quiz             | Covered Topics in FS | All              |
 
 **_Completion of these tasks solves the issue on github_**
+**_Closing multipule issues with one comit _**
