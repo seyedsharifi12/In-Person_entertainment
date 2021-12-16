@@ -42,3 +42,5 @@ Link below to some random quizzes that everyone can pick from.
 | Performances     | NA                   |                  |               |
 | Dress code       | Christmas Jumper     |                  |
 | Quiz             | Covered Topics in FS | All              |
+
+**_Completion of these tasks solves the issue on github_**
